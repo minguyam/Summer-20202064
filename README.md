@@ -1,8 +1,8 @@
 The codes included in this repository are as Follows:
 
 Robot Arm + Gripper
--  control a 3 armed robot's movement with keyboard keys
--  use a gripper by pressing the spacebar key
+- Control a 3 armed robot's movement with keyboard keys
+- Use a gripper by pressing the spacebar key
 
 Solar System
 - Simulates a real Solar System
